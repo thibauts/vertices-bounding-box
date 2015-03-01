@@ -1,0 +1,24 @@
+{
+  "name": "vertices-bounding-box",
+  "version": "1.0.0",
+  "description": "Computes the bounding box of a set of vertices",
+  "author": "thibauts",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thibauts/vertices-bounding-box.git"
+  },
+  "keywords": [
+    "bounding-box",
+    "bounding",
+    "box",
+    "vertices",
+    "mesh"
+  ]
+}
